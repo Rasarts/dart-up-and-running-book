@@ -4,15 +4,12 @@
 <chapter id="ch02">
   <?dbhtml stop-chunking?>
 
-  <title>A Tour of the Dart Language</title>
+  <title>Экскурсия по языку программирования Dart</title>
 
-  <para>This chapter shows you how to use each major Dart feature, from
-  variables and operators to classes and libraries, with the assumption that
-  you already know how to program in another language.</para>
+  <para>В этой главе показано, как пользоваться каждой из особенностей языка Dart, от переменных и операторов до классов и библиотек, с предположением, что вы уже знаете, как программировать на любом другом языке.</para>
 
   <note>
-    <para>To play with each feature, create a command-line application project
-    in Dart Editor, as described in <xref linkend="ch01-editor" />.</para>
+    <para>Что бы попробывать самостоятельно поработать с каждой из особенностей языка, будет лучше создать отдельное приложение в Dart Editor, как было описанно в <xref linkend="ch01-editor" />.</para>
   </note>
 
   <para>Consult the <ulink url="http://www.dartlang.org/docs/spec/">Dart
